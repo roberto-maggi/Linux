@@ -144,3 +144,9 @@ mount /nfs
 ln -sf /nfs/nginx /etc/nginx
 df -h  | grep nfs 
 ```
+
+
+
+## Letture ulteriori
+
+http://a2.pluto.it/a21.htm
